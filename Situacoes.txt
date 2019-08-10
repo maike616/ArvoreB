@@ -1,0 +1,12 @@
+Sucesso
+Cancelado
+Sucesso
+Sucesso
+Adiado
+Sucesso
+Ausencia do Terapeuta
+Sucesso
+Ausencia do Paciente
+Sucesso
+Nao ocorreu motivo:outros
+Sucesso
